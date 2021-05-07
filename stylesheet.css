@@ -1,0 +1,7 @@
+.text-height { 
+  line-height:1.7rem; 
+}
+
+html {
+  scroll-behavior: smooth;
+}
